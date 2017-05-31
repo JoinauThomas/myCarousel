@@ -34,11 +34,11 @@ namespace monCarousel
 
     public class imagesAction
     {
-        int nbPhotos = MainActivity.nbImages;
+        int nbPhotos = MainActivity.NB_IMAGES;
         
         private static images[] createTable()
         {
-            int nbPhotos = MainActivity.nbImages;
+            int nbPhotos = MainActivity.NB_IMAGES;
 
             images[] table = new images[nbPhotos];
             int x = 0;

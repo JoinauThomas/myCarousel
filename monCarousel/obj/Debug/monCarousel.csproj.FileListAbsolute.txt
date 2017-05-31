@@ -33,3 +33,38 @@ C:\Users\tjoin\Documents\Visual Studio 2017\Projects\monCarousel\monCarousel\obj
 C:\Users\tjoin\Documents\Visual Studio 2017\Projects\monCarousel\monCarousel\obj\Debug\res\drawable\photo2.jpg
 C:\Users\tjoin\Documents\Visual Studio 2017\Projects\monCarousel\monCarousel\obj\Debug\res\drawable\photo3.jpg
 C:\Users\tjoin\Documents\Visual Studio 2017\Projects\monCarousel\monCarousel\obj\Debug\res\layout\myfragment.xml
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\monCarousel.dll
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\monCarousel.pdb
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\monCarousel.monCarousel.apk
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\monCarousel.monCarousel-Signed.apk
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\monCarousel.csprojResolveAssemblyReference.cache
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\monCarousel.dll
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\monCarousel.pdb
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\android\bin\monCarousel.monCarousel.apk
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\layout\myfragment.xml
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\layout\main.xml
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\values\strings.xml
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\drawable\icon.png
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\drawable\photo4.jpg
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\drawable\photo0.jpg
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\drawable\photo1.jpg
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\drawable\photo2.jpg
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\drawable\photo3.jpg
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\R.cs.flag
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\uploadflags.txt
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\monCarousel.dll.mdb
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\android\assets\monCarousel.dll.mdb

@@ -75,8 +75,11 @@ namespace monCarousel
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050002
+			public const int myImage = 2131034114;
+			
 			// aapt resource value: 0x7f050001
-			public const int myImage = 2131034113;
+			public const int myLinµLayout = 2131034113;
 			
 			// aapt resource value: 0x7f050000
 			public const int myViewpager = 2131034112;
