@@ -47,6 +47,8 @@ namespace FlashCardPager
             {
                 prev.ScaleX = tailleMax - (tailleDiff * positionOffset);
                 prev.ScaleY = tailleMax - (tailleDiff * positionOffset);
+                prev.TranslationZ = 10 - 10 * positionOffset;
+                
                 
             }
                 
@@ -54,7 +56,7 @@ namespace FlashCardPager
             {
                 cur.ScaleX = tailleMin + (tailleDiff * positionOffset);
                 cur.ScaleY = tailleMin + (tailleDiff * positionOffset);
-               
+                cur.TranslationZ = 0 + 10 * positionOffset;
             }
 
             if (next != null)
@@ -72,39 +74,7 @@ namespace FlashCardPager
 
         void ViewPager.IOnPageChangeListener.OnPageSelected(int position)
         {
-            Console.WriteLine(position);
-
-            MainActivity.PREMIERE_IMG = position;
-            CurrentPage = position;
-
-            LinearLayout prevprev = getRootView(position - 1);
-            LinearLayout prev = getRootView(position);
-            LinearLayout cur = getRootView(position + 1);
-            LinearLayout next = getRootView(position + 2);
-
-
-            if(prevprev != null)
-            {
-                prevprev.TranslationZ = 0;
-                Console.WriteLine("prevPrev : " + (position - 1) + " z = " + prevprev.TranslationZ);
-            }
-            if (prev != null)
-            {
-                prev.TranslationZ = 10;
-                Console.WriteLine("preview : " + position+ " z = "+prev.TranslationZ);
-            }
-
-            if (cur != null)
-            {
-                cur.TranslationZ = 0;
-                Console.WriteLine("current : " + (position+1) + " z = " + cur.TranslationZ);
-            }
-
-            if (next != null)
-            {
-                next.TranslationZ = 10;
-                Console.WriteLine("next : " + (position+2) + " z = " + next.TranslationZ);
-            }
+            
         }
        
 
