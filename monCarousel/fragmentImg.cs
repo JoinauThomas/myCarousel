@@ -39,6 +39,8 @@ namespace monCarousel
             View view = inflater.Inflate(Resource.Layout.myFragment, container, false);
             ImageView Image = (ImageView)view.FindViewById(Resource.Id.myImage);
 
+
+
             int resourceId = (int)typeof(Resource.Drawable).GetField(image).GetVa‌​lue(null);
             Image.SetImageResource(resourceId);
             Image.SetAdjustViewBounds(true);
@@ -48,6 +50,7 @@ namespace monCarousel
                 view.TranslationZ = 10;
                 view.ScaleX = tailleMax;
                 view.ScaleY = tailleMax;
+                
             }
             else if (position == firstPos + 1 || position == firstPos - 1)
             {

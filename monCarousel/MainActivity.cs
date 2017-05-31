@@ -15,7 +15,7 @@ namespace monCarousel
 
         public static int NB_IMAGES = 5;
         public static int PREMIERE_IMG = 2;
-        public static int ECART_ENTRE_IMG = -350;
+        public static int ECART_ENTRE_IMG = -450;
         public static int NB_PAGES_CHARGEES = 5;
         public static float TAILLE_MIN = 0.5f;
         public static float TAILLE_MAX = 1.0f;
