@@ -77,6 +77,21 @@ namespace monCarousel
 			// aapt resource value: 0x7f02000a
 			public const int photo4 = 2130837514;
 			
+			// aapt resource value: 0x7f02000b
+			public const int Pphoto0 = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int Pphoto1 = 2130837516;
+			
+			// aapt resource value: 0x7f02000d
+			public const int Pphoto2 = 2130837517;
+			
+			// aapt resource value: 0x7f02000e
+			public const int Pphoto3 = 2130837518;
+			
+			// aapt resource value: 0x7f02000f
+			public const int Pphoto4 = 2130837519;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
