@@ -68,3 +68,8 @@ C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\R.cs.
 C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\uploadflags.txt
 C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\bin\Debug\monCarousel.dll.mdb
 C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\android\assets\monCarousel.dll.mdb
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\drawable\_photo4.jpg
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\drawable\_photo0.jpg
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\drawable\_photo2.jpg
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\drawable\_photo1.jpg
+C:\Users\tjoin\OneDrive\EPHEC\3eme\Stage\monCarousel\monCarousel\obj\Debug\res\drawable\_photo3.jpg

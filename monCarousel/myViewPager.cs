@@ -15,7 +15,7 @@ namespace FlashCardPager
         private MainActivity context;
         private static float tailleMin = MainActivity.TAILLE_MIN;
         private static float tailleMax = MainActivity.TAILLE_MAX;
-        private static float tailleDiff = tailleMax - tailleMin ;
+        private static float tailleDiff = tailleMax - tailleMin;
 
         public MyViewPager(Android.Support.V4.App.FragmentManager fm, imagesAction monImage, MainActivity context) : base(fm)
         {
@@ -32,9 +32,9 @@ namespace FlashCardPager
         void ViewPager.IOnPageChangeListener.OnPageScrolled(int position, float positionOffset, int positionOffsetPixels)
         {
             LinearLayout prevprev = getRootView(position - 1);
-            LinearLayout prev = getRootView(position );
-            LinearLayout cur = getRootView(position+1);
-            LinearLayout next = getRootView(position+2);
+            LinearLayout prev = getRootView(position);
+            LinearLayout cur = getRootView(position + 1);
+            LinearLayout next = getRootView(position + 2);
 
 
             if (prevprev != null)
@@ -48,10 +48,10 @@ namespace FlashCardPager
                 prev.ScaleX = tailleMax - (tailleDiff * positionOffset);
                 prev.ScaleY = tailleMax - (tailleDiff * positionOffset);
                 prev.TranslationZ = 10 - 10 * positionOffset;
-                
-                
+
+
             }
-                
+
             if (cur != null)
             {
                 cur.ScaleX = tailleMin + (tailleDiff * positionOffset);
@@ -63,7 +63,7 @@ namespace FlashCardPager
             {
                 next.ScaleX = tailleMin;
                 next.ScaleY = tailleMin;
-                
+
             }
         }
 
@@ -74,14 +74,14 @@ namespace FlashCardPager
 
         void ViewPager.IOnPageChangeListener.OnPageSelected(int position)
         {
-            
+            fragmentImg.SetPosition(position);
         }
-       
+
 
 
         public override Android.Support.V4.App.Fragment GetItem(int position)
         {
-            var frag = (Android.Support.V4.App.Fragment) fragmentImg.newInstance( monImg[position].image, monImg[position].titreImage, position );
+            var frag = (Android.Support.V4.App.Fragment)fragmentImg.newInstance(monImg[position].image, monImg[position].titreImage, position);
             return frag;
         }
 
@@ -91,9 +91,9 @@ namespace FlashCardPager
             try
             {
                 Fragment x = GetItem(position);
-                c = x.View; 
+                c = x.View;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 return null;
             }
@@ -114,11 +114,9 @@ namespace FlashCardPager
             }
             return ly;
         }
-            private String getFragmentTag(int position)
+        private String getFragmentTag(int position)
         {
-
             return "android:switcher:" + context.viewPager.Id + ":" + position;
-
         }
 
 

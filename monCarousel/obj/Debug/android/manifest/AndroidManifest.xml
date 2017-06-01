@@ -5,7 +5,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="monCarousel" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:icon="@drawable/icon" android:label="monCarousel" android:name="md53ef5b2f47d1da6bbbaba36fb71da84af.MainActivity">
+    <activity android:icon="@drawable/icon" android:label="monCarousel" android:screenOrientation="portrait" android:name="md53ef5b2f47d1da6bbbaba36fb71da84af.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
